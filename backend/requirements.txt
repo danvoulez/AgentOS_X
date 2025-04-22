@@ -5,3 +5,8 @@ loguru
 pydantic
 redis
 motor
+python-multipart
+python-dotenv
+GitPython
+google-generativeai
+httpx
